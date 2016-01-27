@@ -19,9 +19,9 @@
       - Area of a circle: PI * radius * radius where PI = 3.142
       - Area of a rectangle: length * width
 
- 5. Write a program that prints the next 10 leap years from 2016
+5. Write a program that prints the next 10 leap years from 2016
 
- 6. Write a program that prints numbers from 1 - 100 using the following conditions:
+6. Write a program that prints numbers from 1 - 100 using the following conditions:
       - If the number is divisible by three, let it print `` Fizz`` instead of the number
       - If the number is divisible by five, let it print `` Buzz`` instead of the number
       - If the number is divisible by both three and five, let it print `` Fizz Buzz`` instead of the number
