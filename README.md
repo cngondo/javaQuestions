@@ -1,2 +1,2 @@
 # javaQuestions
-Collection of java qns
+Collection of beginner java qns

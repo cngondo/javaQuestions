@@ -25,3 +25,5 @@
       - If the number is divisible by three, let it print `` Fizz`` instead of the number
       - If the number is divisible by five, let it print `` Buzz`` instead of the number
       - If the number is divisible by both three and five, let it print `` Fizz Buzz`` instead of the number
+
+7. Write a program that sums up multiples of 3 and 5 below 1000.
